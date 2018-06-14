@@ -1,0 +1,1 @@
+Ajnc za 2 igrača

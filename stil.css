@@ -1,0 +1,60 @@
+button {
+  margin-left: 50%;
+  margin-top: 25%;
+  display: block;
+}
+
+.uigri {
+  margin-left: 50%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height: 40px;
+  width: 160px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 25px;
+  border: 1px solid white;
+  background: green;
+}
+
+#karta {
+  width: 250px;
+  height: 363px;
+  border: 1px solid black;
+  border-radius: 12px;
+  display: inline-block;
+  margin: 10px;
+}
+#header {
+  background: black;
+  width: 100%;
+  margin: 5px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+#karteigrac {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 55px;
+}
+#karteai {
+  border: 2px solid black;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+#gumb {
+  height: 40px;
+  width: 160px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 25px;
+}
+body {
+  background-image: url('./imgs/pozadina.jpg');
+}
+p {
+  color: white;
+}
