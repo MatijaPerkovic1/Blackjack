@@ -1,1 +1,1 @@
-Ajnc za 2 igrača
+Game of blackjack for 2 players.
